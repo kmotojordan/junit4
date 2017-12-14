@@ -191,6 +191,7 @@
                     </execution>
                 </executions>
             </plugin>
+                             <!-- New Logic -->
                    <!--       
            
             <plugin>
@@ -217,7 +218,7 @@
                     <value>${project.version}</value>
                 </configuration>
             </plugin>
-            
+
                             -->
             
             <plugin><!-- Using jdk 1.5.0_22, package-info.java files are compiled correctly. -->
